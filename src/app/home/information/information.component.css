@@ -1,0 +1,26 @@
+.case-info{
+    background-color: black;
+    height: 300px;
+}
+
+.case-left{
+    background-color: blue;
+    float: left;
+    width: 20%;
+    height: 300px;
+}
+
+.case-right{
+    background-color: yellow;
+    float: left;
+    width: 70%;
+    height: 300px;
+}
+
+.pie-chart-info{
+    background-color: springgreen;
+    height: 300px;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+}
